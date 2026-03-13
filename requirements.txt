@@ -1,0 +1,8 @@
+timesfm[torch]
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+huggingface_hub
